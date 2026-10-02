@@ -1,0 +1,13 @@
+# Support de cours, pas un travail à versionner
+*.pdf
+CI-CD-Git-GitHub-Fondation.md
+
+build/
+*.local
+
+# Workspace VSCode à ne pas push
+*.code-workspace      
+
+# Dépôt séparé du TP 04 / TP 05 / TP 06
+merge-lab/
+flow-lab-theotim-landry/
